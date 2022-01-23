@@ -17,5 +17,5 @@ for i in range(5000):
     thread = threading.thread(target=attack)
     thread.start()
 
-# do not use
-# for educational purposes only 
+
+# for educational purposes
